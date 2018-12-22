@@ -1,0 +1,14 @@
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\bin\Release\CCTV Player.exe.config
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\bin\Release\CCTV Player.exe
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\bin\Release\CCTV Player.pdb
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\bin\Release\Interop.AXVLC.dll
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\bin\Release\AxInterop.AXVLC.dll
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\Interop.AXVLC.dll
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\AxInterop.AXVLC.dll
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\CCTV Player.csproj.ResolveComReference.cache
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\CCTV_Player.Form1.resources
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\CCTV_Player.Properties.Resources.resources
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\CCTV Player.csproj.GenerateResource.cache
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\CCTV Player.csproj.CoreCompileInputs.cache
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\CCTV Player.exe
+C:\Users\Юра Долотов\source\repos\CCTV Player\CCTV Player\obj\Release\CCTV Player.pdb
